@@ -1,0 +1,172 @@
+.acc
+{
+    width: 35px;
+    height: 35px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAI0AjQMBIgACEQEDEQH/xAAbAAEAAwEBAQEAAAAAAAAAAAAABAUGAwECB//EADkQAAICAQEEBwMLBAMAAAAAAAABAgMEEQUhQVEGEhMxYXGBIiORFDJCUmJyobHB0eEzk/DxQ1Nj/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AP3EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOORk040OvfZGEfHiQNrbXhia1U6Tv5cI+Zmb7rL7HZdOU5vi2BeZXSJauOJTr9qf7FdbtjOs/5uquUFoQQB3eZlPvyr/wC4z2GfmQescm71m2RwBZ07dzK/nuFq5SWj+KLbD27jXNRu9zP7T1XxMsAN7FqS1W9PkemO2dtO/Bkkn16uNbe705Gqw8urMpVlMtVxT70+QHcAAAAAAAAqtt7S+SV9jS12813/AFVzLDKvjjY87p/NgtfMxN9077p22PWU3q/AD4bbbbbbe9tgAAAewhKclGuMpyfcorVgeAmw2TmyX9JR+9JI537PyqF1rKZdXi470vgBGAAAkYOXZhXq2rfwlF90kRwBuMXIryqI3VPWMvw8DsZbo/mdhk9hJ+7t3Lwlw+JqQAAAAACg6T5Oiqxovv8Abl+n6lATtt2drtK7lHSK9CCAAAHbEx55V8aq+98dNyXM0+JiVYlShVHfxk+9lf0dpSptu09qUuqvBL/ZbgAABVbV2ZG2ErsePVsW+UUvnfyUBtGZXadKozroRWkddUvPeBFAABNppp6NPVM22BkfKsOq7jKO/wA+JiTS9GLHLDsrf0J7vJ/4wLkAAAABiM9652S//WX5nAk7Si4Z+Qn/ANsn8WRgAAA0XR+SeC48Y2MsjM7HzFi5LVj0qs3N8nwZptzWqeqAAABxMztuSltGzT6KS/A0GZkwxaJWzf3V9ZmSsnKyyU575Sbb8wPAAAL7oq9+UvCH6lCaDorH2cmfBuK+Gv7gXwAAAADKdIquz2g58LIqXr3MrDUdIsXtsLtYrWdL19OP7+hlwAB1x8e3JtVdMdZP4JcwORPwtqX4qUJR7SrgpPRryZa4eycehJ2pW2c5Lcn4Im2VV2w6lkIyjya1QECG28RrWUbIv7upyv27Uo+4qlKXOW5EmWycN7+ya8ps+6tm4lT1jTFv7XtfmBnMrIuyZqd8m39FaaJLwRxNjbVXdDqWwjOPJrXQptobG6idmJq0t7rb1foBTgPcwANV0ep7LZ0ZNb7G5enAzONTLIvrph86ctPJczb1VxqrhXBaRikkB9gAAAAPGk1o1qmY/a2C8HKaS91PfB+HL0NiR83Fry6JVWrc+58U+aAxlNU77Y1VrWcnokarCxK8OhV1739KT75Mi7L2bPCstndo5a9WDXLmWIAAAAAAAAFPtrZ6lF5VK0kv6kefiUZtCqxdhr5bOdy9xF6wj9bz8AOvR7AdVfyq1e3NewuUf5Lo8R6AAAAAAAAB40mtGcZVtb1vR3AEUEhxUu9Hy6lzYHEHXsfH8B2PiByPUm+5HZVxR9ID4hXpvfedAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/9k=");
+    background-size: contain;
+}
+.accbar
+{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.gml
+{
+    margin-right:2%;
+}
+.img
+{
+    margin-right: 2%;
+}
+.logo
+{
+    text-align: center;
+    margin-top: 10%;
+}
+#input
+{
+    width: 480px;
+    height: 45px;
+    text-align: left;
+    border-left: none;
+    border-right: none;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+}
+.search
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+}
+.maglen
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 47px;
+    height: 47px;
+    border: 1px solid ;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-right: none;
+}
+.mic
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 47px;
+    height: 47px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+}
+.cam
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 47px;
+    height: 47px;
+    border: 1px solid ;
+    border-left: none;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+.p1
+{
+    width: 48px;
+    height: 48px;
+    border: 1px solid black;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+}
+.p2
+{
+    width: 48px;
+    height: 48px;
+    border: 1px solid black;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+}
+.p3
+{
+    width: 48px;
+    height: 48px;
+    border: 1px solid black;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+}
+.p4
+{
+    width: 48px;
+    height: 48px;
+    border: 1px solid black;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+}
+.p5
+{
+    width: 48px;
+    height: 48px;
+    border: 1px solid black;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+}
+.recents
+{
+    margin-top: 2%;
+    padding-left: 30%;
+    padding-right: 30%;
+    display: flex;
+    justify-content: space-around
+}
+.names
+{
+    padding-left: 30%;
+    padding-right: 30%;
+    display: flex;
+    justify-content: space-around;
+}
+.n2
+{
+    margin-left: 5%;
+}
+.n3
+{
+    margin-left: 4%;
+}
+.n6
+{
+    margin-left: 2%;
+}
+.n7
+{
+    margin-left: 1%;
+}
+.n9{
+    margin-right: 3%;
+}
+.n10
+{
+    margin-right: 2%;
+}
